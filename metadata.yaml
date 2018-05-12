@@ -1,0 +1,31 @@
+_repo: The-Lance-of-KananaA-Story-of-Arabia_39853
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39853-h/images/bcover.jpg
+creator:
+  author:
+    agent_name: French, Harry W. (Harry Willard)
+    aliases:
+    - French, H. W. (Harry Willard)
+    - French, Henry Willard
+    birthdate: 1854
+    deathdate: 1915
+    gutenberg_agent_id: '40264'
+    url: http://www.gutenberg.org/2009/agents/40264
+description: ''
+gutenberg_bookshelf: Punch
+gutenberg_issued: '2012-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39853'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arabian Peninsula -- History -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Heroes -- Arab countries -- Juvenile fiction'
+title: 'The Lance of Kanana: A Story of Arabia'
+url: http://www.gutenberg.org/ebooks/39853
